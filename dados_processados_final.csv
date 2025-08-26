@@ -1,0 +1,191 @@
+id_cliente,idade,sexo,escolaridade,profissao,autoavaliacao_saude,grupo_caminhada,gasto_produtos_naturais,gasto_produtos_ultraprocessados,frequencia_compra,participa_programa_saude,regiao,participa_caminhada,profissao_encoded,faixa_etaria_adulto,faixa_etaria_meia_idade,faixa_etaria_idoso,idade_zscore,perfil_saudavel,faixa_etaria,alto_consumo_natural,faixa_etaria_otimizada,cluster,perfil_consumidor,consumidor_natural_class
+1001,34,Feminino,Superior Completo,professor,4.0,Sim,250.5,130.75,5,Não,Sudeste,1,138,True,False,False,-0.5045967536945821,0,adulto,0,Faixa 2 (30-38 anos),2,Misto,1
+1002,28,Masculino,Médio,vendedor,3.0,Não,180.2,220.3,8,Sim,Sul,0,180,True,False,False,-1.2061093137090007,0,adulto,0,Faixa 1 (0-29 anos),0,Industrializado,0
+1003,45,Feminino,Pós-graduação,médico,5.0,não,420.8,80.15,3,Sim,Sudeste,0,115,False,True,False,0.7815096063318522,0,meia_idade,1,Faixa 3 (39-46 anos),1,Saudável,1
+1004,52,Masculino,Superior Completo,engenheiro,3.0,Sim,310.4,160.9,4,Não,Centro-Oeste,1,61,False,True,False,1.599940926348674,0,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1005,29,Feminino,Médio,secretária,4.0,Não,190.6,185.5,6,Não,Nordeste,0,153,True,False,False,-1.0891905537065976,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1006,38,Masculino,Superior Completo,desconhecida,4.0,Sim,380.7,120.25,4,Sim,Sul,1,45,False,True,False,-0.036921713684969625,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1007,41,Feminino,Fundamental,cozinheira,2.0,Não,95.3,280.4,12,Não,Norte,0,39,False,True,False,0.3138345663222397,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1008,33,Masculino,Pós-graduação,dentista,5.0,Sim,450.9,70.8,2,Sim,Sudeste,1,43,True,False,False,-0.6215155136969852,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1009,26,Feminino,Superior Completo,designer,4.0,Sim,220.15,140.6,5,Não,Sul,1,47,True,False,False,-1.439946833713807,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1010,49,Masculino,Médio,mecânico,3.0,Não,150.8,250.3,9,Sim,Centro-Oeste,0,107,False,True,False,1.2491846463414646,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1011,35,Feminino,Superior Completo,enfermeira,4.0,S,280.45,110.7,4,Sim,Nordeste,0,60,False,True,False,-0.387677993692179,0,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1012,42,Masculino,Fundamental,pedreiro,2.0,Não,120.6,320.85,11,Não,Norte,0,133,False,True,False,0.43075332632464286,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1013,31,Feminino,Pós-graduação,psicóloga,5.0,nao,390.2,90.4,3,Sim,Sudeste,0,143,True,False,False,-0.8553530337017914,0,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1014,57,Masculino,Superior Completo,contador,3.0,Sim,260.9,180.55,6,Não,Sul,1,32,False,True,False,2.1845347263606896,0,meia_idade,0,Faixa 4 (47-57 anos),2,Misto,1
+1015,24,Feminino,Médio,atendente,3.0,Não,160.4,200.7,7,Não,Centro-Oeste,0,14,True,False,False,-1.6737843537186132,0,adulto,0,Faixa 1 (0-29 anos),0,Industrializado,0
+1016,39,Masculino,Superior Completo,professor,4.0,Sim,300.85,125.3,4,Sim,Nordeste,1,138,False,True,False,0.07999704631743348,1,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1017,44,Feminino,Fundamental,diarista,2.0,Não,110.2,290.6,10,Não,Norte,0,49,False,True,False,0.6645908463294491,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1018,36,Masculino,Pós-graduação,farmacêutico,5.0,Sim,410.7,85.9,3,Sim,Sudeste,1,69,False,True,False,-0.27075923368977584,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1019,27,Feminino,Superior Completo,jornalista,7.0,Sim,240.3,150.45,5,Não,Sul,1,100,True,False,False,-1.323028073711404,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1020,51,Masculino,Médio,motorista,3.0,Não,170.95,240.8,8,Sim,Centro-Oeste,0,112,False,True,False,1.4830221663462708,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1021,37,Feminino,Superior Completo,administradora,4.0,Sim,290.6,135.2,4,Sim,Nordeste,1,1,False,True,False,-0.15384047368737275,1,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1022,46,Masculino,Fundamental,segurança,2.0,Não,130.75,310.4,11,Não,Norte,0,154,False,True,False,0.8984283663342553,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1023,32,Feminino,Pós-graduação,veterinária,5.0,Sim,380.9,95.65,3,Sim,Sudeste,1,182,True,False,False,-0.7384342736993883,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1024,25,Masculino,Médio,técnico,3.0,Não,185.5,210.3,7,Não,Sul,0,173,True,False,False,-1.5568655937162101,0,adulto,0,Faixa 1 (0-29 anos),0,Industrializado,0
+1025,48,Feminino,Superior Completo,gerente,4.0,Sim,320.4,140.85,4,Sim,Centro-Oeste,1,83,False,True,False,1.1322658863390616,1,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1026,40,Masculino,Superior Completo,analista,4.0,Sim,270.8,160.7,5,Não,Nordeste,1,4,False,True,False,0.1969158063198366,0,meia_idade,0,Faixa 3 (39-46 anos),2,Misto,1
+1027,29,Feminino,Fundamental,vendedora,2.0,Não,115.6,275.9,9,Não,Norte,0,181,True,False,False,-1.0891905537065976,0,adulto,0,Faixa 1 (0-29 anos),0,Industrializado,0
+1028,54,Masculino,Pós-graduação,médico,5.0,Sim,470.2,75.4,2,Sim,Sudeste,1,115,False,True,False,1.8337784463534803,1,meia_idade,1,Faixa 4 (47-57 anos),1,Saudável,1
+1029,33,Feminino,Superior Completo,arquiteta,4.0,Sim,310.7,130.55,4,Sim,Sul,1,11,True,False,False,-0.6215155136969852,1,adulto,1,Faixa 2 (30-38 anos),2,Misto,1
+1030,43,Masculino,Médio,eletricista,3.0,Não,155.9,235.6,8,Não,Centro-Oeste,0,57,False,True,False,0.5476720863270459,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1031,38,Feminino,Superior Completo,nutricionista,5.0,Sim,420.5,80.25,3,Sim,Nordeste,1,119,False,True,False,-0.036921713684969625,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1032,47,Masculino,Fundamental,jardineiro,2.0,Não,125.4,295.7,10,Não,Norte,0,99,False,True,False,1.0153471263366585,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1033,30,Feminino,Pós-graduação,fisioterapeuta,5.0,Sim,360.8,100.9,3,Sim,Sudeste,1,74,True,False,False,-0.9722717937041946,1,adulto,1,Faixa 1 (0-29 anos),1,Saudável,1
+1034,26,Masculino,Médio,programador,4.0,Não,200.6,190.45,6,Não,Sul,0,140,True,False,False,-1.439946833713807,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1035,50,Feminino,Superior Completo,diretora,4.0,Sim,340.9,150.3,4,Sim,Centro-Oeste,1,50,False,True,False,1.3661034063438677,1,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1036,35,Masculino,Superior Completo,economista,4.0,Sim,285.7,145.8,5,Não,Nordeste,1,55,False,True,False,-0.387677993692179,1,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1037,41,Feminino,Fundamental,faxineira,2.0,Não,105.8,285.6,11,Não,Norte,0,70,False,True,False,0.3138345663222397,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1038,34,Masculino,Pós-graduação,biólogo,5.0,Sim,395.4,88.7,3,Sim,Sudeste,1,22,True,False,False,-0.5045967536945821,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1039,28,Feminino,Superior Completo,publicitária,4.0,Sim,255.3,155.9,5,Não,Sul,1,144,True,False,False,-1.2061093137090007,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1040,52,Masculino,Médio,supervisor,3.0,Não,175.6,245.4,7,Sim,Centro-Oeste,0,161,False,True,False,1.599940926348674,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1041,39,Feminino,Superior Completo,pedagoga,4.0,Sim,305.8,125.6,4,Sim,Nordeste,1,132,False,True,False,0.07999704631743348,1,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1042,45,Masculino,Fundamental,porteiro,2.0,Não,135.9,305.8,10,Não,Norte,0,136,False,True,False,0.7815096063318522,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1043,31,Feminina,Pós-graduação,química,5.0,Sim,375.6,92.4,3,Sim,Sudeste,1,146,True,False,False,-0.8553530337017914,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1044,27,Masculino,Médio,designer gráfico,4.0,Não,195.7,205.3,6,Não,Sul,0,48,True,False,False,-1.323028073711404,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,0
+1045,49,Feminino,Superior Completo,consultora,4.0,Sim,330.5,160.9,4,Sim,Centro-Oeste,1,31,False,True,False,1.2491846463414646,1,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1046,36,Masculino,Superior Completo,engenheiro civil,4.0,Sim,275.9,170.4,5,Não,Nordeste,1,62,False,True,False,-0.27075923368977584,0,meia_idade,0,Faixa 2 (30-38 anos),2,Misto,1
+1047,42,Feminino,Fundamental,costureira,2.0,Não,110.6,280.7,9,Não,Norte,0,37,False,True,False,0.43075332632464286,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1048,33,Masculino,Pós-graduação,professor universitário,5.0,Sim,405.8,85.3,3,Sim,Sudeste,1,139,True,False,False,-0.6215155136969852,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1049,29,Feminino,Superior Completo,turismóloga,4.0,Sim,245.4,165.8,5,Não,Sul,1,172,True,False,False,-1.0891905537065976,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1050,53,Masculino,Médio,operador,3.0,Não,165.3,250.6,8,Sim,Centro-Oeste,0,122,False,True,False,1.716859686351077,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1051,37,Feminino,Superior Completo,assistente social,4.0,Sim,295.7,140.5,4,Sim,Nordeste,1,13,False,True,False,-0.15384047368737275,1,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1052,44,Masculino,Fundamental,auxiliar,2.0,Não,125.8,300.4,11,Não,Norte,0,16,False,True,False,0.6645908463294491,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1053,32,Feminino,Pós-graduação,fonoaudióloga,5.0,Sim,385.9,95.7,3,Sim,Sudeste,1,76,True,False,False,-0.7384342736993883,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1054,25,Masculino,Médio,estagiário,3.0,Não,180.5,215.9,7,Não,Sul,0,64,True,False,False,-1.5568655937162101,0,adulto,0,Faixa 1 (0-29 anos),0,Industrializado,0
+1055,48,Feminino,Superior Completo,coordenadora,4.0,Sim,315.6,155.4,4,Sim,Centro-Oeste,1,34,False,True,False,1.1322658863390616,1,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1056,38,Masculino,Superior Completo,auditor,4.0,Sim,280.4,175.6,5,Não,Nordeste,1,15,False,True,False,-0.036921713684969625,1,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1057,41,Feminino,Fundamental,babá,2.0,Não,115.9,270.8,9,Não,Norte,0,19,False,True,False,0.3138345663222397,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1058,35,Masculino,Pós-graduação,pesquisador,5.0,Sim,415.7,82.5,2,Sim,Sudeste,1,134,False,True,False,-0.387677993692179,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1059,30,Feminino,Superior Completo,bibliotecária,4.0,Sim,260.8,160.3,5,Não,Sul,1,21,True,False,False,-0.9722717937041946,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1060,51,Masculino,Médio,inspetor,3.0,Não,170.6,240.9,8,Sim,Centro-Oeste,0,98,False,True,False,1.4830221663462708,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1061,36,Feminino,Superior Completo,fisioterapeuta,5.0,Sim,350.9,110.7,3,Sim,Nordeste,1,74,False,True,False,-0.27075923368977584,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1062,46,Masculino,Fundamental,vigilante,2.0,Não,130.4,315.6,10,Não,Norte,0,183,False,True,False,0.8984283663342553,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1063,31,Feminino,Pós-graduação,terapeuta ocupacional,5.0,Sim,370.5,98.8,3,Sim,Sudeste,1,164,True,False,False,-0.8553530337017914,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1064,26,Masculino,Médio,analista jr,4.0,Não,190.8,200.7,6,Não,Sul,0,6,True,False,False,-1.439946833713807,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,0
+1065,49,Feminino,Superior Completo,supervisora,4.0,Sim,325.7,165.5,4,Sim,Centro-Oeste,1,162,False,True,False,1.2491846463414646,1,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1066,37,Masculino,Superior Completo,geólogo,4.0,Sim,285.9,180.4,5,Não,Nordeste,1,93,False,True,False,-0.15384047368737275,1,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1067,43,Feminino,Fundamental,auxiliar de limpeza,2.0,Não,108.7,285.9,11,Não,Norte,0,17,False,True,False,0.5476720863270459,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1068,34,Masculino,Pós-graduação,estatístico,5.0,Sim,390.6,90.4,3,Sim,Sudeste,1,65,True,False,False,-0.5045967536945821,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1069,28,Feminino,Superior Completo,relações públicas,4.0,Sim,250.9,170.6,5,Não,Sul,1,149,True,False,False,-1.2061093137090007,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1070,54,Masculino,Médio,técnico eletrônico,3.0,Não,160.8,255.4,7,Sim,Centro-Oeste,0,175,False,True,False,1.8337784463534803,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1071,39,Feminino,Superior Completo,psicopedagoga,4.0,Sim,300.4,135.8,4,Sim,Nordeste,1,142,False,True,False,0.07999704631743348,1,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1072,45,Masculino,Fundamental,operário,2.0,Não,140.6,295.3,10,Não,Norte,0,125,False,True,False,0.7815096063318522,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1073,32,Feminino,Pós-graduação,geneticista,5.0,Sim,380.7,93.6,3,Sim,Sudeste,1,82,True,False,False,-0.7384342736993883,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1074,27,Masculino,Médio,web designer,4.0,Não,205.4,195.8,6,Não,Sul,0,185,True,False,False,-1.323028073711404,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1075,50,Feminino,Superior Completo,gestora,4.0,Sim,335.8,170.9,4,Sim,Centro-Oeste,1,84,False,True,False,1.3661034063438677,1,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1076,35,Masculino,Superior Completo,meteorologista,4.0,Sim,290.6,175.3,5,Não,Nordeste,1,109,False,True,False,-0.387677993692179,1,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1077,42,Feminino,Fundamental,doméstica,2.0,Não,112.5,275.6,9,Não,Norte,0,53,False,True,False,0.43075332632464286,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1078,33,Masculino,Pós-graduação,epidemiologista,5.0,Sim,425.9,78.4,2,Sim,Sudeste,1,63,True,False,False,-0.6215155136969852,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1079,29,Feminino,Superior Completo,museóloga,4.0,Sim,265.7,160.5,5,Não,Sul,1,113,True,False,False,-1.0891905537065976,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1080,52,Masculino,Médio,soldador,3.0,Não,175.9,250.8,8,Sim,Centro-Oeste,0,159,False,True,False,1.599940926348674,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1081,38,Feminino,Superior Completo,terapeutar,5.0,Sim,355.6,115.9,3,Sim,Nordeste,1,165,False,True,False,-0.036921713684969625,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1082,47,Masculino,Fundamental,ajudante,2.0,Não,135.7,310.4,11,Não,Norte,0,2,False,True,False,1.0153471263366585,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1083,31,Feminino,Pós-graduação,microbiologista,5.0,Sim,365.8,96.7,3,Sim,Sudeste,1,110,True,False,False,-0.8553530337017914,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1084,25,Masculino,Médio,trainee,3.0,Não,185.6,220.4,7,Não,Sul,0,170,True,False,False,-1.5568655937162101,0,adulto,0,Faixa 1 (0-29 anos),0,Industrializado,0
+1085,48,Feminino,Superior Completo,diretora pedagógica,4.0,Sim,320.9,175.6,4,Sim,Centro-Oeste,1,52,False,True,False,1.1322658863390616,1,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1086,36,Masculino,Superior Completo,sociólogo,4.0,Sim,275.4,185.7,5,Não,Nordeste,1,158,False,True,False,-0.27075923368977584,0,meia_idade,0,Faixa 2 (30-38 anos),2,Misto,1
+1087,41,Feminino,Fundamental,cuidadora,2.0,Não,118.9,268.5,9,Não,Norte,0,41,False,True,False,0.3138345663222397,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1088,34,Masculino,Pós-graduação,toxicologista,5.0,Sim,395.7,89.3,3,Sim,Sudeste,1,169,True,False,False,-0.5045967536945821,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1089,30,Feminino,Superior Completo,historiadora,4.0,Sim,270.8,165.4,5,Não,Sul,1,94,True,False,False,-0.9722717937041946,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1090,53,Masculino,Médio,montador,3.0,Não,168.4,245.7,8,Sim,Centro-Oeste,0,111,False,True,False,1.716859686351077,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1091,37,Feminino,Superior Completo,musicoterapeuta,5.0,Sim,340.5,125.8,3,Sim,Nordeste,1,114,False,True,False,-0.15384047368737275,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1092,44,Masculino,Fundamental,carregador,2.0,Não,128.6,305.9,10,Não,Norte,0,25,False,True,False,0.6645908463294491,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1093,32,Feminino,Pós-graduação,imunologista,5.0,Sim,375.9,94.5,3,Sim,Sudeste,1,96,True,False,False,-0.7384342736993883,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1094,26,Masculino,Médio,desenvolvedor,4.0,Não,198.7,210.6,6,Não,Sul,0,46,True,False,False,-1.439946833713807,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,0
+1095,49,Feminino,Superior Completo,coordenadora pedagógica,4.0,Sim,310.8,180.4,4,Sim,Centro-Oeste,1,35,False,True,False,1.2491846463414646,1,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1096,35,Masculino,Superior Completo,antropólogo,4.0,Sim,285.6,190.8,5,Não,Nordeste,1,8,False,True,False,-0.387677993692179,1,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1097,43,Feminino,Fundamental,passadeira,2.0,Não,105.4,290.7,11,Não,Norte,0,130,False,True,False,0.5476720863270459,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1098,33,Masculino,Pós-graduação,neurocientista,5.0,Sim,410.9,81.6,2,Sim,Sudeste,1,117,True,False,False,-0.6215155136969852,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1099,28,Feminino,Superior Completo,arqueóloga,4.0,Sim,255.6,175.9,5,Não,Sul,1,10,True,False,False,-1.2061093137090007,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1100,54,Masculino,Médio,operador de máquinas,3.0,Não,162.7,260.5,7,Sim,Centro-Oeste,0,123,False,True,False,1.8337784463534803,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1101,38,Feminino,Superior Completo,acupunturista,5.0,Sim,380.4,105.7,3,Sim,Nordeste,1,0,False,True,False,-0.036921713684969625,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1102,46,Masculino,Fundamental,lixeiro,2.0,Não,132.8,320.6,10,Não,Norte,0,104,False,True,False,0.8984283663342553,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1103,31,Feminino,Pós-graduação,patologista,5.0,Sim,385.7,91.8,3,Sim,Sudeste,1,131,True,False,False,-0.8553530337017914,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1104,27,Masculino,Médio,consultor jr,4.0,Não,192.5,225.7,6,Não,Sul,0,30,True,False,False,-1.323028073711404,0,adulto,0,Faixa 1 (0-29 anos),0,Industrializado,0
+1105,50,Feminino,Superior Completo,diretora administrativa,4.0,Sim,340.6,185.9,4,Sim,Centro-Oeste,1,51,False,True,False,1.3661034063438677,1,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1106,36,Masculino,Superior Completo,filósofo,4.0,Sim,295.8,195.6,5,Não,Nordeste,1,73,False,True,False,-0.27075923368977584,0,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1107,42,Feminino,Fundamental,zeladora,2.0,Não,114.6,278.9,9,Não,Norte,0,186,False,True,False,0.43075332632464286,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1108,34,Masculino,Pós-graduação,virologista,5.0,Sim,420.8,76.9,2,Sim,Sudeste,1,184,True,False,False,-0.5045967536945821,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1109,29,Feminino,Superior Completo,curadora,4.0,Sim,275.9,180.7,5,Não,Sul,1,42,True,False,False,-1.0891905537065976,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1110,51,Masculino,Médio,torneiro,3.0,Não,172.6,248.9,8,Sim,Centro-Oeste,0,168,False,True,False,1.4830221663462708,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1111,37,Feminino,Superior Completo,homeopata,5.0,Sim,365.7,120.5,3,Sim,Nordeste,1,95,False,True,False,-0.15384047368737275,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1112,45,Masculino,Fundamental,gari,2.0,Não,138.9,315.8,11,Não,Norte,0,79,False,True,False,0.7815096063318522,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1113,32,Feminino,Pós-graduação,parasitologista,5.0,Sim,370.6,97.4,3,Sim,Sudeste,1,129,True,False,False,-0.7384342736993883,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1114,25,Masculino,Médio,assistente,3.0,Não,188.9,230.8,7,Não,Sul,0,12,True,False,False,-1.5568655937162101,0,adulto,0,Faixa 1 (0-29 anos),0,Industrializado,0
+1115,48,Feminino,Superior Completo,gestora de projetos,4.0,Sim,325.4,190.7,4,Sim,Centro-Oeste,1,88,False,True,False,1.1322658863390616,1,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1116,35,Masculino,Superior Completo,linguista,4.0,Sim,280.7,200.9,5,Não,Nordeste,1,103,False,True,False,-0.387677993692179,0,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1117,41,Feminino,Fundamental,merendeira,2.0,Não,120.8,272.6,9,Não,Norte,0,108,False,True,False,0.3138345663222397,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1118,33,Masculino,Pós-graduação,bacteriologista,5.0,Sim,405.6,84.7,3,Sim,Sudeste,1,20,True,False,False,-0.6215155136969852,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1119,30,Feminino,Superior Completo,produtora cultural,4.0,Sim,260.5,185.8,5,Não,Sul,1,137,True,False,False,-0.9722717937041946,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1120,52,Masculino,Médio,fresador,3.0,Não,175.8,253.4,8,Sim,Centro-Oeste,0,77,False,True,False,1.599940926348674,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1121,38,Feminino,Superior Completo,naturopata,5.0,Sim,390.8,110.6,3,Sim,Nordeste,1,116,False,True,False,-0.036921713684969625,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1122,47,Masculino,Fundamental,auxiliar geral,2.0,Não,142.7,308.5,10,Não,Norte,0,18,False,True,False,1.0153471263366585,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1123,31,Feminino,Pós-graduação,farmacologista,5.0,Sim,380.9,92.6,3,Sim,Sudeste,1,68,True,False,False,-0.8553530337017914,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1124,26,Masculino,Médio,suporte técnico,4.0,Não,195.8,235.9,6,Não,Sul,0,163,True,False,False,-1.439946833713807,0,adulto,0,Faixa 1 (0-29 anos),0,Industrializado,0
+1125,49,Feminino,Superior Completo,gestora ambiental,4.0,Sim,330.7,195.8,4,Sim,Centro-Oeste,1,85,False,True,False,1.2491846463414646,0,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1126,36,Masculino,Superior Completo,teólogo,4.0,Sim,290.9,205.7,5,Não,Nordeste,1,167,False,True,False,-0.27075923368977584,0,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1127,43,Feminino,Fundamental,lavadeira,2.0,Não,108.9,288.7,11,Não,Norte,0,101,False,True,False,0.5476720863270459,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1128,34,Masculino,Pós-graduação,oncologista,5.0,Sim,435.9,73.8,2,Sim,Sudeste,1,121,True,False,False,-0.5045967536945821,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1129,28,Feminino,Superior Completo,editora,4.0,Sim,268.4,190.6,5,Não,Sul,1,56,True,False,False,-1.2061093137090007,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1130,55,Masculino,Médio,controlador,3.0,Não,158.9,265.8,7,Sim,Centro-Oeste,0,33,False,True,False,1.9506972063558834,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1131,39,Feminino,Superior Completo,reflexologista,5.0,Sim,375.6,115.4,3,Sim,Nordeste,1,148,False,True,False,0.07999704631743348,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1132,46,Masculino,Fundamental,estivador,2.0,Não,145.8,318.6,10,Não,Norte,0,66,False,True,False,0.8984283663342553,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1133,32,Feminino,Pós-graduação,endocrinologista,5.0,Sim,395.8,88.9,3,Sim,Sudeste,1,59,True,False,False,-0.7384342736993883,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1134,27,Masculino,Médio,operador de sistema,4.0,Não,202.6,240.5,6,Não,Sul,0,124,True,False,False,-1.323028073711404,0,adulto,0,Faixa 1 (0-29 anos),0,Industrializado,0
+1135,50,Feminino,Superior Completo,gestora de qualidade,4.0,Sim,335.9,200.6,4,Sim,Centro-Oeste,1,89,False,True,False,1.3661034063438677,0,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1136,37,Masculino,Superior Completo,semiólogo,4.0,Sim,285.5,210.8,5,Não,Nordeste,1,155,False,True,False,-0.15384047368737275,0,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1137,44,Feminino,Fundamental,catadora,2.0,Não,102.7,295.8,9,Não,Norte,0,27,False,True,False,0.6645908463294491,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1138,33,Masculino,Pós-graduação,cardiologista,5.0,Sim,425.7,79.6,2,Sim,Sudeste,1,24,True,False,False,-0.6215155136969852,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1139,29,Feminino,Superior Completo,dramaturga,4.0,Sim,272.8,195.4,5,Não,Sul,1,54,True,False,False,-1.0891905537065976,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1140,53,Masculino,Médio,caldeireiro,3.0,Não,168.7,258.9,8,Sim,Centro-Oeste,0,23,False,True,False,1.716859686351077,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1141,38,Feminino,Superior Completo,fitoterapeuta,5.0,Sim,385.9,108.7,3,Sim,Nordeste,1,75,False,True,False,-0.036921713684969625,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1142,45,Masculino,Fundamental,servente,2.0,Não,148.6,322.8,11,Não,Norte,0,157,False,True,False,0.7815096063318522,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1143,31,Feminino,Pós-graduação,dermatologista,5.0,Sim,375.4,95.8,3,Sim,Sudeste,1,44,True,False,False,-0.8553530337017914,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1144,25,Masculino,Médio,analista de dados,4.0,Não,198.7,245.6,6,Não,Sul,0,5,True,False,False,-1.5568655937162101,0,adulto,0,Faixa 1 (0-29 anos),0,Industrializado,0
+1145,48,Feminino,Superior Completo,gestora de rh,4.0,Sim,320.8,205.4,4,Sim,Centro-Oeste,1,90,False,True,False,1.1322658863390616,0,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1146,35,Masculino,Superior Completo,urbanista,4.0,Sim,295.6,215.9,5,Não,Nordeste,1,177,False,True,False,-0.387677993692179,0,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1147,42,Feminino,Fundamental,empacotadora,2.0,Não,116.8,282.9,9,Não,Norte,0,58,False,True,False,0.43075332632464286,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1148,34,Masculino,Pós-graduação,pneumologista,5.0,Sim,415.8,82.4,2,Sim,Sudeste,1,135,True,False,False,-0.5045967536945821,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1149,30,Feminino,Superior Completo,cenógrafa,4.0,Sim,278.6,200.8,5,Não,Sul,1,28,True,False,False,-0.9722717937041946,0,adulto,0,Faixa 1 (0-29 anos),2,Misto,1
+1150,54,Masculino,Médio,funileiro,3.0,Não,162.4,263.7,7,Sim,Centro-Oeste,0,78,False,True,False,1.8337784463534803,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1151,39,Feminino,Superior Completo,aromaterapeuta,5.0,Sim,390.7,112.8,3,Sim,Nordeste,1,9,False,True,False,0.07999704631743348,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1152,47,Masculino,Fundamental,carroceiro,2.0,Não,151.9,325.6,10,Não,Norte,0,26,False,True,False,1.0153471263366585,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1153,32,Feminino,Pós-graduação,neurologista,5.0,Sim,385.6,93.7,3,Sim,Sudeste,1,118,True,False,False,-0.7384342736993883,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1154,26,Masculino,Médio,técnico de ti,4.0,Não,205.8,250.7,6,Não,Sul,0,174,True,False,False,-1.439946833713807,0,adulto,0,Faixa 1 (0-29 anos),0,Industrializado,0
+1155,49,Feminino,Superior Completo,gestora financeira,4.0,Sim,340.5,210.5,4,Sim,Centro-Oeste,1,92,False,True,False,1.2491846463414646,0,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1156,36,Masculino,Superior Completo,crítico,4.0,Sim,300.7,220.6,5,Não,Nordeste,1,40,False,True,False,-0.27075923368977584,0,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1157,43,Feminino,Fundamental,recicladora,2.0,Não,110.9,290.8,11,Não,Norte,0,147,False,True,False,0.5476720863270459,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1158,33,Masculino,Pós-graduação,gastroenterologista,5.0,Sim,430.9,75.5,2,Sim,Sudeste,1,80,True,False,False,-0.6215155136969852,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1159,28,Feminina,Superior Completo,figurinista,4.0,Sim,284.7,205.9,5,Não,Sul,1,72,True,False,False,-1.2061093137090007,0,adulto,1,Faixa 1 (0-29 anos),2,Misto,1
+1160,51,Masculino,Médio,retificador,3.0,Não,175.6,268.5,8,Sim,Centro-Oeste,0,150,False,True,False,1.4830221663462708,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1161,37,Feminino,Superior Completo,quiropraxista,5.0,Sim,395.8,105.9,3,Sim,Nordeste,1,145,False,True,False,-0.15384047368737275,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1162,44,Masculino,Fundamental,coveiro,2.0,Não,155.7,328.9,10,Não,Norte,0,38,False,True,False,0.6645908463294491,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1163,31,Feminino,Pós-graduação,oftalmologista,5.0,Sim,390.5,90.8,3,Sim,Sudeste,1,120,True,False,False,-0.8553530337017914,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1164,27,Masculino,Médio,técnico em eletrônica,4.0,Não,212.9,255.8,6,Não,Sul,0,176,True,False,False,-1.323028073711404,0,adulto,0,Faixa 1 (0-29 anos),0,Industrializado,0
+1165,50,Feminino,Superior Completo,gestora comercial,4.0,Sim,345.8,215.7,4,Sim,Centro-Oeste,1,86,False,True,False,1.3661034063438677,0,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1166,38,Masculino,Superior Completo,etnólogo,4.0,Sim,305.8,225.4,5,Não,Nordeste,1,67,False,True,False,-0.036921713684969625,0,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1167,42,Feminino,Fundamental,varredora,2.0,Não,124.7,285.6,9,Não,Norte,0,179,False,True,False,0.43075332632464286,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1168,34,Masculino,Pós-graduação,ortopedista,5.0,Sim,420.6,81.7,2,Sim,Sudeste,1,126,True,False,False,-0.5045967536945821,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1169,29,Feminino,Superior Completo,roteirista,4.0,Sim,290.8,210.7,5,Não,Sul,1,152,True,False,False,-1.0891905537065976,0,adulto,1,Faixa 1 (0-29 anos),2,Misto,1
+1170,52,Masculino,Médio,serralheiro,3.0,Não,178.9,273.6,8,Sim,Centro-Oeste,0,156,False,True,False,1.599940926348674,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1171,36,Feminino,Superior Completo,osteopata,5.0,Sim,400.9,103.6,3,Sim,Nordeste,1,127,False,True,False,-0.27075923368977584,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1172,46,Masculino,Fundamental,faxineiro,2.0,Não,158.8,332.7,11,Não,Norte,0,71,False,True,False,0.8984283663342553,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1173,32,Feminino,Pós-graduação,reumatologista,5.0,Sim,378.7,96.9,3,Sim,Sudeste,1,151,True,False,False,-0.7384342736993883,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1174,25,Masculino,Médio,programador jr,4.0,Não,218.6,260.9,6,Não,Sul,0,141,True,False,False,-1.5568655937162101,0,adulto,0,Faixa 1 (0-29 anos),0,Industrializado,0
+1175,48,Feminino,Superior Completo,gestora de marketing,4.0,Sim,350.7,220.8,4,Sim,Centro-Oeste,1,87,False,True,False,1.1322658863390616,0,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1176,37,Masculino,Superior Completo,paleontólogo,4.0,Sim,310.9,230.5,5,Não,Nordeste,1,128,False,True,False,-0.15384047368737275,0,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1177,41,Feminino,Fundamental,coletora,2.0,Não,128.8,288.9,9,Não,Norte,0,29,False,True,False,0.3138345663222397,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1178,33,Masculino,Pós-graduação,urologista,5.0,Sim,435.8,77.9,2,Sim,Sudeste,1,178,True,False,False,-0.6215155136969852,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1179,30,Feminino,Superior Completo,coreógrafa,4.0,Sim,296.9,215.8,5,Não,Sul,1,36,True,False,False,-0.9722717937041946,0,adulto,1,Faixa 1 (0-29 anos),2,Misto,1
+1180,55,Masculino,Médio,ajustador,3.0,Não,162.8,278.7,7,Sim,Centro-Oeste,0,3,False,True,False,1.9506972063558834,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
+1181,38,Feminino,Superior Completo,massoterapeuta,5.0,Sim,385.6,108.9,3,Sim,Nordeste,1,106,False,True,False,-0.036921713684969625,1,meia_idade,1,Faixa 2 (30-38 anos),1,Saudável,1
+1182,45,Masculino,Fundamental,limpador,2.0,Não,161.9,335.8,10,Não,Norte,0,102,False,True,False,0.7815096063318522,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1183,31,Feminino,Pós-graduação,infectologista,5.0,Sim,388.9,91.6,3,Sim,Sudeste,1,97,True,False,False,-0.8553530337017914,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1184,26,Masculino,Médio,testador de software,4.0,Não,224.7,265.8,6,Não,Sul,0,166,True,False,False,-1.439946833713807,0,adulto,0,Faixa 1 (0-29 anos),0,Industrializado,0
+1185,49,Feminino,Superior Completo,gestora de vendas,4.0,Sim,355.9,225.9,4,Sim,Centro-Oeste,1,91,False,True,False,1.2491846463414646,0,meia_idade,1,Faixa 4 (47-57 anos),2,Misto,1
+1186,35,Masculino,Superior Completo,genealogista,4.0,Sim,315.7,235.6,5,Não,Nordeste,1,81,False,True,False,-0.387677993692179,0,meia_idade,1,Faixa 2 (30-38 anos),2,Misto,1
+1187,43,Feminino,Fundamental,trituradora,2.0,Não,132.9,292.8,11,Não,Norte,0,171,False,True,False,0.5476720863270459,0,meia_idade,0,Faixa 3 (39-46 anos),0,Industrializado,0
+1188,34,Masculino,Pós-graduação,anestesiologista,5.0,Sim,440.9,74.8,2,Sim,Sudeste,1,7,True,False,False,-0.5045967536945821,1,adulto,1,Faixa 2 (30-38 anos),1,Saudável,1
+1189,28,Feminino,Superior Completo,sonoplasta,4.0,Sim,302.8,220.9,5,Não,Sul,1,160,True,False,False,-1.2061093137090007,0,adulto,1,Faixa 1 (0-29 anos),2,Misto,1
+1190,53,Masculino,Médio,mandrilhador,3.0,Não,168.9,283.8,8,Sim,Centro-Oeste,0,105,False,True,False,1.716859686351077,0,meia_idade,0,Faixa 4 (47-57 anos),0,Industrializado,0
